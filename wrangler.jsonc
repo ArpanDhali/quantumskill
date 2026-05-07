@@ -1,5 +1,5 @@
 {
-  "name": "quantamsite",
+  "name": "quantumskill",
   "main": ".open-next/worker.js",
   "compatibility_date": "2026-05-07",
   "compatibility_flags": ["nodejs_compat"],
